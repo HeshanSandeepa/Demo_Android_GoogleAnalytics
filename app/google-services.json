@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_id": "smooth-era-122603",
+    "project_number": "426658377494",
+    "name": "DemoGoogleAnalytics"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426658377494:android:48150a9aab237b6c",
+        "client_id": "android:appmonkeyz.demo_googleanalytics",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "appmonkeyz.demo_googleanalytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-74061630-1"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
